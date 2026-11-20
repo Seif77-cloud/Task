@@ -1,0 +1,10 @@
+body {
+  background: #eef2f7;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+h1 { font-weight: 800; color: #1a3a5c; }
+.card {
+  border: none;
+  border-radius: 18px;
+}
+.btn { border-radius: 10px; padding: 10px; font-weight: bold; }
